@@ -1,0 +1,91 @@
+% A simple CV example
+% Copyright (C) 2020-2021 hnqiu. All Rights Reserved.
+% Licensed under the MIT License. See LICENSE for details.
+
+% Project is hosted at
+% https://github.com/hnqiu/simplecv
+
+
+\documentclass{simplecv}
+\usepackage[utf8]{inputenc}
+\usepackage[margin=2cm]{geometry}
+
+
+\setfooter{Updated in Jun 2021}
+
+% personal information in this document is IMAGINARY
+
+\begin{document}
+
+\name{Preeti kumari}
+\personalinfo
+{45 Gujrat Colony Chas}{Bokaro Steel City}{827013}
+             {preetiupadhyay.20dr0102@ce.iitism.ac.in}{8228980754}
+
+
+\cvsection{Personal Summary}
+\cvitem{An enthuasistic researcher, exploring the domain with my consistent and sincere efforts.I am a curious person and try to explore the undefined virtues of science in nature.    }
+
+
+
+\cvsection{Education}
+\cvevent{2020/08--present}{PhD in Chemical Engineering}
+        {Indian School Of Mines (IIT)}{Dhanbad, India}
+\cvitem{Nanoparticle in drug delivery system}
+\cvitem{CGPA: 9.415/10}
+
+\cvevent{2015/08--2019/06}{B.Tech in Chemical Engineering}
+        {Birsa Institute Of Technology, Sindri}{Dhanbad, India}
+\cvitem{CGPA: 8.79/10.0}
+\cvevent{2014/O4--2015/05}{Intermediate,(Science)}
+        {Delhi Public School}{Bokaro Steel City, India}
+\cvitem{Percentage: 93.4}        
+\cvevent{2012/04--2013/05}{Matriculation}
+        {TATA DAV SCHOOL,Jamadoba}{Dhanbad , India}
+\cvitem {CGPA:10}        
+
+
+
+\cvsection{TRAINING/INTERNSHIPS}
+
+\cvevent{2017/06--2017/07}{Vocational Trainee}
+        {Steel Authority Of India Limited}{Bokaro Steel City,India}
+\cvitem{TOPIC : Manufacturing of Naphthalene and to increase its yield}
+\cvevent{2018/06--2018/07}{Research Intern}{Indian Institute Of Sciences,Bangalore}{Bangalore,India}
+\cvitem{TOPIC : Thermochemical Energy Storage}
+\cvevent{2018-2019}{Final Year Project}{B.I.T., SINDRI}{Dhanbad,India}
+\cvitem{TOPIC : Hydrodynamic Behaviour Of Cold Fluidized Bed}
+
+
+
+
+
+
+\cvsection{Skills}
+\subsection{Software Skills}
+\cvitem{MS Word ,MS Powerpoint, MS Excel , Basics of C language }
+\subsection{Management Skills}
+\cvitem{Organised Techno-management fest 'SANDHAAN'in college. }
+\subsection{Technical skills }
+\cvitem{MATLAB \& SIMULINK}
+
+
+
+
+\cvsection{Co-Curricular Activities}
+
+\cvitem{Served as Vice- Chairperson at MODEL CLUB, the techno management wing of B.I.T. SINDRI}
+\cvitem{Organised and managed the institute annual techno management fest "SANDHAAN'18"}
+\cvitem{Participated in Techie of Year Contest in the Technical Fest of college.}
+\cvitem{Participated in English Speech , debate, tempore at school.}
+
+
+
+
+\cvsection{Notable Achievements}
+\cvitem{University second rank holder in B.Tech(Chemical Engineering)}
+\cvitem{Recipient of Kishori Devi Scholarship Award (Grand topper among girls in 1st year UG)}
+\cvitem{Recipient of Scholar Badge in intermediate for good academic performance}
+\cvitem{Received Appreciation Certificate from school for good performance in matriculation.}
+
+\end{document}
